@@ -1,19 +1,40 @@
 # PWA Conversion (Budget App)
 
-# User Story
+[![Generic badge](https://img.shields.io/badge/License-MIT-yellowgreen.svg)](https://shields.io/)
 
-```
-AS AN avid traveler
-I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
-SO THAT my account balance is accurate when I am traveling
-```
+## Description
 
-# Acceptance Criteria
+This application is a budget tracker that has offline functionality through indexedDB and service workers.
+This application is also a PWA and can be installed on a computer or phone.
 
-```
-GIVEN a budget tracker without an internet connection
-WHEN the user inputs an expense or deposit
-THEN they will receive a notification that they have added an expense or deposit
-WHEN the user reestablishes an internet connection
-THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
-```
+## Deployment
+
+## License
+
+This application is covered under the MIT License.
+
+## Screenshots
+
+PWA open in web browser:
+![Budget-App-Chrome-Screenshot](https://user-images.githubusercontent.com/88356270/148630870-90d5e9de-cf97-47e1-a206-a4782485552a.png)
+
+PWA installed and running out of browser:
+![Budget-App-PWA-Screenshot](https://user-images.githubusercontent.com/88356270/148630836-be43939d-dda3-491a-8071-f4bc24640d34.png)
+
+## Table of Contents
+
+- [Screenshots](#Screenshots)
+- [License](#license)
+- [Contributing](#contributing)
+
+## Contributing
+
+For contributing to this project, please follow the guidelines of the:
+
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
+
+## Questions
+
+- [GitHub](https://github.com/beamchristian 'GitHub')
+- [Email](mailto:beamchristian@yahoo.com 'Email')
+- [Repo](https://github.com/beamchristian/PWA-Conversion-Budget-App 'Repo')
